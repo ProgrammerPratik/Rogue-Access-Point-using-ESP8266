@@ -15,7 +15,7 @@ A simple project where I create a connectable access point (WIFI?) using just a 
 
 ## Simple illustration explaining flow of working:
 
-<img width="1349" height="1428" alt="block-diagram" src="https://github.com/user-attachments/assets/2e0ec002-e06f-4fb1-9e0a-11ae8f7fe6c6" />
+<img width="1363" height="1476" alt="block-diagram" src="https://github.com/user-attachments/assets/5c340e76-953f-4046-b7f6-bc1868919315" />
 
 ## Requirements
 
